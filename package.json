@@ -1,0 +1,15 @@
+{
+  "name": "roman-numeral-converter",
+  "version": "1.0.0",
+  "description": "Roman numeral converter algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "freeCodeCamp"
+  ],
+  "author": "Jesus Ordosgoitty",
+  "license": "MIT"
+}
